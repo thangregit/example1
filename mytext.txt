@@ -1,2 +1,2 @@
 Content main in mytext
-var a = 0
+let a = 0
