@@ -1,1 +1,2 @@
 Content main in mytext
+var a = 0
