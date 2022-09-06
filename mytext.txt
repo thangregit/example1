@@ -1,1 +1,5 @@
-đây là file ở main
+Content main in mytext
+
+
+
+let i = 0
